@@ -29,7 +29,7 @@ The Accuracy data and Cross Entropy Cost Function data will automatically be sav
 
 `tensorboard --logdir /tf_logs`
 
-![picture alt](tensorboard_image.jpg)
+![picture alt](tensorboard_image.PNG)
 
 The model parameters and graph structure will also be saved and able to be restored for both inferencing and/or re-training. By default the final model save is located in directory `C:\Machine_Learning\ML Projects\MNIST_CNN_PieNet\PieNet_final_model.ckpt`. This can be changed by editing the MNISTPieNet class attribute `self.default_model_path`. Note: Documentation in the code is provided to easily save and restore models.
 
