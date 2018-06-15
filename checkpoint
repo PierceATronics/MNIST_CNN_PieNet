@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Machine_Learning\\ML Projects\\MNIST_CNN_PieNet\\PieNet_final_model.ckpt"
+all_model_checkpoint_paths: "C:\\Machine_Learning\\ML Projects\\MNIST_CNN_PieNet\\PieNet_final_model.ckpt"
